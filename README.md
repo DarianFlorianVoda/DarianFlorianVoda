@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DarianFlorianVoda
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Computer Science at WUT, Year 3 (terminal year)
+- 📫 How to reach me https://www.facebook.com/Darian.Florian/
