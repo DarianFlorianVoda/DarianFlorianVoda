@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @DarianFlorianVoda
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Computer Science at WUT, Year 3 (terminal year)
+- 🌱 I’m currently studying Applied Data Science at CUAS (1st year)
+- 🌱 Graduated BSc Computer Science at WUT, Year 3 (terminal year)
 - 📫 How to reach me:
--   https://www.facebook.com/Darian.Florian/
--   https://www.linkedin.com/in/voda-darian/
+- ➡️ https://www.facebook.com/Darian.Florian/
+- ➡️ https://www.linkedin.com/in/voda-darian/
+- 📧 darian.voda00@e-uvt.ro
