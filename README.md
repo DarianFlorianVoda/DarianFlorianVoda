@@ -6,3 +6,4 @@
 - ➡️ https://www.facebook.com/Darian.Florian/
 - ➡️ https://www.linkedin.com/in/voda-darian/
 - 📧 darian.voda00@e-uvt.ro
+- 📧 eduvoddar001@fh-kaernten.at 
