@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarianFlorianVoda
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently studying Applied Data Science at CUAS (1st year)
+- 👀 I’m a passionate student for Data Science
+- 🌱 I’m currently studying Applied Data Science at Carinthia University of Applied Sciences (CUAS) - 1st year
 - 🌱 Graduated BSc Computer Science at WUT, Year 3 (terminal year)
 - 📫 How to reach me:
 - ➡️ https://www.facebook.com/Darian.Florian/
