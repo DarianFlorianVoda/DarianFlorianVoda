@@ -2,7 +2,7 @@
 - 👀 I’m a passionate student for Data Science
 - 💼 I work as a Data Quality Analyst for KAI (Infineon) since 1st of November
 - 🌱 I’m currently studying Applied Data Science at Carinthia University of Applied Sciences (CUAS) - 1st year
-- 🌱 Graduated BSc Computer Science at WUT, Year 3 (terminal year)
+- 🌱 Graduated BSc Computer Science at WUT, Year 3
 - 📫 How to reach me:
 - ➡️ https://www.facebook.com/Darian.Florian/
 - ➡️ https://www.linkedin.com/in/voda-darian/
