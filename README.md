@@ -8,5 +8,5 @@
 - ➡️ [Instagram](https://www.instagram.com/vodadarian/)
 - ➡️ [Twitter](https://twitter.com/DarianVoda)
 - ➡️ [LinkedIn](https://www.linkedin.com/in/voda-darian/)
-- 📧 darian.voda00@e-uvt.ro
+- 📧 darivoda@gmail.com
 - 📧 vodadarianflorian@gmail.com
